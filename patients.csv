@@ -1,0 +1,7 @@
+PatientID,PatientName,Department,TreatmentCost
+P101,Ravi,Cardiology,60000
+P102,Priya,Neurology,45000
+P103,Rahul,Cardiology,70000
+P104,Anu,Orthopedics,30000
+P105,Kiran,Neurology,55000
+P106,Ajay,Orthopedics,40000
